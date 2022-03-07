@@ -10,3 +10,9 @@ Run our application,
 ```sh
 >>> python main.py
 ```
+
+### Install requirements
+
+```sh
+>>> pip install -r requirements.txt
+```
